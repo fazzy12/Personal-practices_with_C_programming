@@ -11,14 +11,14 @@
 int main()
 {
 
-    double width = 2.59, height = 5.76, param, area;
+    double width = 2.59, height = 5.76, perimeter = 0.0, area = 0.0;
 
 
-        param =  (width + height) * 2.0 ;
+        perimeter =  (width + height) * 2.0 ;
         area = (width * height);
 
 
-        printf("perimeter: %lf, area: %lf\n", param, area);
+        printf("perimeter: %lf, area: %lf\n", perimeter, area);
 
 
 
