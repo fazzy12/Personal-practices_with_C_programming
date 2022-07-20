@@ -27,5 +27,4 @@ int main()
     printf("the value of %d is:  ebay\n", eb);
 
     return 0;
-
 }
