@@ -25,9 +25,9 @@ Here are some recommended resources for learning C programming:
 
 1. The C Programming Language by Brian W. Kernighan and Dennis M. Ritchie
 2. C Programming Absolute Beginner's Guide (3rd Edition) by Greg Perry and Dean Miller
-3. [Codecademy's Learn C Programming course] (https://www.codecademy.com/learn/learn-c)
+3. [Codecademy's Learn C Programming course](https://www.codecademy.com/learn/learn-c)
 4. [Udemy's C Programming for Beginners course](https://www.udemy.com/course/c-programming-for-beginners/)
-5. [Coursera's C Programming Essentials course ](https://www.coursera.org/courses/c-programming-essentials)
+5. [Coursera's C Programming Essentials course](https://www.coursera.org/courses/c-programming-essentials)
 
 ## Tools
 Here are some tools that can help you be successful in your C programming journey:
